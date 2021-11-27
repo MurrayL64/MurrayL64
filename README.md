@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @MurrayL64
-- 👀 I’m interested in Game Programming
-- 🌱 I’m currently learning C#
+brbrbrbrbbrb
 
 <!---
 MurrayL64/MurrayL64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
